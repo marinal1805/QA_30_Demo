@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="49d47c37-5b2c-4652-aa25-15044aa35b1b" name="Changes" comment="Create project">
+    <list default="true" id="49d47c37-5b2c-4652-aa25-15044aa35b1b" name="Changes" comment="css Selectors">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/experiments/CssSelectors.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/experiments/CssSelectors.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -99,11 +98,20 @@
       <option name="project" value="LOCAL" />
       <updated>1753606430177</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="css Selectors">
+      <option name="closed" value="true" />
+      <created>1753805954574</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1753805954574</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Create project" />
-    <option name="LAST_COMMIT_MESSAGE" value="Create project" />
+    <MESSAGE value="css Selectors" />
+    <option name="LAST_COMMIT_MESSAGE" value="css Selectors" />
   </component>
 </project>
